@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # 配置Git信息
-git_username="你的Git用户名"
-git_email="602012854@qq.com"
+git_username="mengxiaopeng"
+git_email="xiaopengm@digitalgd.com.cn"
 repository_path="/Users/mengxiaopeng/Desktop/code/Tools"
 
 # 配置Git用户信息
